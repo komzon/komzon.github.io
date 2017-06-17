@@ -1,0 +1,45 @@
+.row.heading.heading1, .row.heading.heading2 {
+    line-height: 120px;
+}
+.container .row1 .title-name {
+    background-color: #4F4F4F;
+    line-height: 120px;
+}
+.container .row1 .position-title {
+    background-color: #3F3F3F;
+    line-height: 120px;
+}
+.row.row1 * {
+    color: white;
+}
+.container .row1 .heading .title-icon {
+    background: #474747;
+    font-size: 40px;
+    text-align: center;
+}
+.container .row1 .heading .position-icon {
+    background: #3B3B3B;
+    font-size: 40px;
+    text-align: center;
+}
+h1 {
+    padding-top: 23px;
+    padding-bottom: 28px;
+}
+.ui-menu-color01 {
+    background-color: #1abc9c !important; }
+
+.ui-menu-color02 {
+    background-color: #3498db !important; }
+
+.ui-menu-color03 {
+    background-color: #9b59b6 !important; }
+
+.ui-menu-color04 {
+    background-color: #e67e22 !important; }
+
+.ui-menu-color05 {
+    background-color: #e74c3c !important; }
+
+.ui-menu-color06 {
+    background-color: #d9a81d !important; }
